@@ -2,22 +2,22 @@
 This repository will contain my assignments for this course. This module is a 10 credit module.
 This is the second semester of this course, and runs for thirteen straight weeks from September 10th to December 13th. 
 
-#Ian’s instruction for this assignment;
+# Ian’s instruction for this assignment;
 
 This assignment concerns the numpy.random package in Python. The requirement of this assignment is to create a Jupyter notebook explaining the use of the package, including detailed explanations of at least five of the distributions provided for in the package. 
 
-#There are four distinct tasks to be carried out in my Jupyter notebook;
+# There are four distinct tasks to be carried out in my Jupyter notebook;
 1.	Explain the overall purpose of the package.
 2.	Explain the use of “Simple random data” and “Permutations” functions.
 3.	Explain the use and purpose of at least five “Distribution” functions.
 4.	Explain the use of seeds in generating pseudorandom numbers.
 
-#Minimum standard:
+# Minimum standard:
 A git repository containing a README, a gitignore file & a Jupyter notebook. 
 The README need only contain an explanation of what is contained in the repository and how to run the Jupyter notebook.
 My notebook should contain the main body of work and list all references.
 
-#Good submission requirements;
+# Good submission requirements;
 •	Clearly organised
 •	Contain concise explanations of the particularities of the dataset.
 •	The analysis contained within the notebook will be well conceived, interesting, and well researched.
@@ -40,12 +40,12 @@ However, I was unsure how to correctly upload screenshots from my own machine to
 I also learned that it is possible to hyperlink [Python]( https://www.python.org/).
 (Reference: Etain Upton’s repository which was submitted for module 52167 - Programming and Scripting https://github.com/EtainUpton/Etain-s-Project-2018---52167---Programming-and-Scripting)
 
-#Name of Module: 52167 - Programming and Scripting
+# Name of Module: 52167 - Programming and Scripting
 Subject of the assignment:
 Research on the subject of Fisher’s Iris data set
 Completed 7 months ago
 
 I also realised that if I clicked on the README in my repository and then clicked ‘Edit this file’ I’d see exactly what I had done to create headings in bold, etc for this README;
  
-
+![Screenshot](ScreenshotDisplayingEdit.jpg)
 I remembered that it was as simple as including a # before the sentence I wanted to make a title/heading;
