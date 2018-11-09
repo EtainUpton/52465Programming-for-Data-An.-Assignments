@@ -48,4 +48,4 @@ Completed 7 months ago
 I also realised that if I clicked on the README in my repository and then clicked ‘Edit this file’ I’d see exactly what I had done to create headings in bold, etc for this README;
  
 ![Screenshot displaying how to edit README in github](ScreenshotDisplayingEdit.jpg)
-I remembered that it was as simple as including a # before the sentence I wanted to make a title/heading;
+I remembered that it was as simple as including a # before the sentence I wanted to make a title/heading; 
