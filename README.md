@@ -29,10 +29,14 @@ After reading the assignment requirements I knew I would need to look back at my
 I had watched most of the videos which were uploaded to Moodle by Ian at this stage which related to Jupyter & NumPy. 
 
 When reviewing my previous submissions from 7 months ago to my github repository for last semester’s module 52167 - Programming and Scripting I was able to quickly refresh my memory and recall some of the basic but important skills I had learned in terms of submitting content to a README in github, such as how to upload an image;
-While researching READMEs I wondered how I would correctly upload an image (e.g. a chart) to GitHub. I learned this from Mastering Markdown and have included some images in this README. I will delve into the initial challenges I faced while trying to successfully complete this; I knew how to upload pictures to a README in GitHub from Mastering Markdown. The below image is supplied on Mastering Markdown and I employed this technique to initially upload images from the web to README;
- 
+While researching READMEs I wondered how I would correctly upload an image (e.g. a chart) to GitHub. I learned this from [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) and have included some images in this README. I will delve into the initial challenges I faced while trying to successfully complete this;
+I knew how to upload pictures to a README in GitHub from [Mastering Markdown](https://guides.github.com/features/mastering-markdown/). The below image is supplied on [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) and I employed this technique to initially upload images from the web to README;
+
+![Screenshot](HowToUploadPictureScreenshotFromMasteringMarkdown.jpg)
+
 However, I was unsure how to correctly upload screenshots from my own machine to show the work I had completed in Visual Studio Code. I remembered covering this in the ‘READMEs’ video on Moodle, so I referred back to this for guidance. I learned that you must follow the same formula as shown in the above image in terms of the exclamation point at the beginning of where you wish to insert an image, square brackets containing a description of what the image represents, and regular brackets with the name of the image from the web, however you insert the name of the image which you have saved in your GitHub repository from your own machine inside the regular brackets brackets. I initially tried to complete this with a PNG file, but when this did not work I saved the image on my desktop again as a JPG file and was able to upload it to the repository and successfully upload it to the README. I also realised through trial and error that there can be no spaces in the name of the image.
-I also learned that it is possible to hyperlink Python.
+
+I also learned that it is possible to hyperlink [Python]( https://www.python.org/).
 (Reference: Etain Upton’s repository which was submitted for module 52167 - Programming and Scripting https://github.com/EtainUpton/Etain-s-Project-2018---52167---Programming-and-Scripting)
 
 Name of Module: 52167 - Programming and Scripting
