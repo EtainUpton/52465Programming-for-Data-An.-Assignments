@@ -33,7 +33,7 @@ When reviewing my previous submissions from 7 months ago to my github repository
 While researching READMEs I wondered how I would correctly upload an image (e.g. a chart) to GitHub. I learned this from [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) and have included some images in this README. I will delve into the initial challenges I faced while trying to successfully complete this;
 I knew how to upload pictures to a README in GitHub from [Mastering Markdown](https://guides.github.com/features/mastering-markdown/). The below image is supplied on [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) and I employed this technique to initially upload images from the web to README;
 
-![Screenshot](GithubScreenshotInstruction.jpg)
+![Screenshot](HowToUploadImagesInREADME.jpg)
 
 However, I was unsure how to correctly upload screenshots from my own machine to show the work I had completed in Visual Studio Code. I remembered covering this in the ‘READMEs’ video on Moodle, so I referred back to this for guidance. I learned that you must follow the same formula as shown in the above image in terms of the exclamation point at the beginning of where you wish to insert an image, square brackets containing a description of what the image represents, and regular brackets with the name of the image from the web, however you insert the name of the image which you have saved in your GitHub repository from your own machine inside the regular brackets brackets. I initially tried to complete this with a PNG file, but when this did not work I saved the image on my desktop again as a JPG file and was able to upload it to the repository and successfully upload it to the README. I also realised through trial and error that there can be no spaces in the name of the image.
 
@@ -47,5 +47,11 @@ Completed 7 months ago
 
 I also realised that if I clicked on the README in my repository and then clicked ‘Edit this file’ I’d see exactly what I had done to create headings in bold, etc for this README;
  
-![Screenshot displaying how to edit README in github](ScreenshotDisplayingEdit.jpg)
+![Screenshot](ScreenshotDisplayingEdit.jpg)
+
 I remembered that it was as simple as including a # before the sentence I wanted to make a title/heading; 
+
+![Screenshot](EtainsPreviousREADME.jpg)
+
+Italics
+Referencing
