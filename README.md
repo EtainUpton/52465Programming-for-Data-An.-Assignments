@@ -55,3 +55,11 @@ I remembered that it was as simple as including a # before the sentence I wanted
 
 Italics
 Referencing
+
+When I initially read the description of what was required from this assignment I was totally clueless as to what I needed to do. Luckily Ian had mentioned in the Assignment Video on Moodle that this would be discussed in videos from week 5, so I decided to focus my attention on these videos.
+I knew I needed to create one single Jupyter notebook, which would include all 4 tasks.
+Ian had mentioned in the video that he expected students to take the existing package and provide a less robotic description of what the data is about. 
+He advised that students should describe with plots in a Jupyter notebook the flavour of the packages on the webpage.
+
+
+
