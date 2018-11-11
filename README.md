@@ -82,7 +82,7 @@ I then decided to move on to the Generating random data (NumPy) videos.
 These videos concentrate on the numpy.random package for generating random data in Python. 
 The numpy.random package is the subject of this assignment. 
 
-My Jupyter Notebook which is accessible via this repository contains the following:
+My Jupyter Notebook *Jupyter Notebook for Module 52465.ipynb* which is accessible via this repository contains the following:
 1.	Explain the overall purpose of the numpy.random package.
 2.	Explain the use of “Simple random data” and “Permutations” functions.
 3.	Explain the use and purpose of at least five “Distribution” functions.
