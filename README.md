@@ -63,8 +63,12 @@ The Jupyter package can be used to create visual workflows to tell a data analyt
 NumPy can be used to generating random data. The numpy.random package can be used to generate random data in Python.
 Ian mentioned in the instructions for this assignment that ‘part of the assignment is about the use of Jupyter notebooks, so students should make use of all the functionality available in the software including images, links, codes and plots.’ I decided to pay closer attention to how to utilise these functionalities when reviewing the Jupyter videos than I had when I initially watched them.
 1.	Re-watched ‘Starting Jupyter Video’, which provided an introduction to getting Jupyter running on my computer. I accessed Jupyter via the Anaconda Navigator as shown in the below screenshot;
- 
+
+![Screenshot](JupyterNotebook.jpg)
+
 The below browser window opened;
+
+![Screenshot](BrowserWindowJupyter.jpg)
  
 2.	Renaming Notebooks Video
 I did some research on the web for a definition of what Jupyter actually is;
