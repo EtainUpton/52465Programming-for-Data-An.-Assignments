@@ -18,10 +18,10 @@ The README need only contain an explanation of what is contained in the reposito
 My notebook should contain the main body of work and list all references.
 
 # Good submission requirements;
-•	Clearly organised
-•	Contain concise explanations of the particularities of the dataset.
-•	The analysis contained within the notebook will be well conceived, interesting, and well researched.
-•	Part of the assignment is about the use of Jupyter notebooks – I should make use of all the functionality available in the software including images, links, code & plots.
+- Clearly organised
+- Contain concise explanations of the particularities of the dataset.
+- The analysis contained within the notebook will be well conceived, interesting, and well researched.
+- Part of the assignment is about the use of Jupyter notebooks – I should make use of all the functionality available in the software including images, links, code & plots.
 
 I knew I needed to bear these conditions in mind while completing this assignment to ensure I met the requirements.
 After reading the assignment requirements I knew I would need to look back at my github repositories from last semester in which I submitted assignments for previous modules to refresh my memory on how to use github correctly. 
@@ -53,13 +53,10 @@ I remembered that it was as simple as including a # before the sentence I wanted
 
 ![Screenshot](EtainsPreviousREADME.jpg)
 
-Italics
-Referencing
-
-When I initially read the description of what was required from this assignment I was totally clueless as to what I needed to do. Luckily Ian had mentioned in the Assignment Video on Moodle that this would be discussed in videos from week 5, so I decided to focus my attention on these videos.
+When I initially read the description of what was required from this assignment I was uncertain of how to proceed. I focused my attention on the Moodle videos supplied by Dr. Ian McLoughlin, along with researching online to gain the knowledge I would need to be able to complete the assignment.
 I knew I needed to create one single Jupyter notebook, which would include all 4 tasks.
-Ian had mentioned in the video that he expected students to take the existing package and provide a less robotic description of what the data is about. 
-He advised that students should describe with plots in a Jupyter notebook the flavour of the packages on the webpage.
+Ian had mentioned in the video that he expected students to take the existing package (https://docs.scipy.org/doc/numpy-1.15.1/reference/routines.random.html) and provide a less robotic description of what the data is about. 
+
 
 The videos I reviewed on Moodle for this assignment were focused on Jupyter and NumPy.
 The Jupyter package can be used to create visual workflows to tell a data analytics story. 
